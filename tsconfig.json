@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "allowJs": true,
+    "allowUnusedLabels": true
+  },
+  "filesGlob": [
+    "plugins/p5.global-mode.d.ts",
+    "app/*.ts"
+  ],
+  "files": [
+  ]
+}

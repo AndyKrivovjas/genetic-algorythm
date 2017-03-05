@@ -1,0 +1,15 @@
+{
+  "name": "genetic-algorythm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Krivovjas",
+  "license": "MIT",
+  "dependencies": {
+    "local-web-server": "^1.2.6",
+    "p5": "^0.5.7"
+  }
+}
